@@ -7,8 +7,12 @@ however for the actual notes themselves I use
 
 This is (eventually) a quick script to turn the `.oo3`
 files that MarginNote exports into a directory of `.md`
-files that can be loaded in Obsidian (or any other markdown editor really[^1]). 
+files that can be loaded in Obsidian (or any other markdown editor really, see note). 
 
-[^1]: If you want to use the generated markdown files outside of Obsidian I would
+---
+
+## Use of other Markdown Apps 
+
+> If you want to use the generated markdown files outside of Obsidian I would
 recommend running them through the [zoni/obsidian-export](https://github.com/zoni/obsidian-export)
 project first to turn the `[[wiki-links]]` style into standard markdown `[...](...)`.
